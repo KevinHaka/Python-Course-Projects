@@ -9,17 +9,19 @@ This is a project for the course *"Advanced programming in Python"* offered by M
 ## How to Run
 
 1. Clone the repository:
-    ```sh
-    git clone https://github.com/KevinHaka/University-Grading-Simulator.git
-    ```
+   ```sh
+   git clone https://github.com/KevinHaka/Python-Course-Projects.git
+   ```
+
 2. Navigate to the project directory:
-    ```sh
-    cd University-Grading-Simulator
-    ```
+   ```sh
+   cd Python-Course-Projects/"University Grading Simulator"
+   ```
+
 3. Run the application:
-    ```sh
-    python main.py
-    ```
+   ```sh
+   python main.py
+   ```
 
 ## Usage
 
