@@ -9,17 +9,19 @@ This is the final project for the course *"Advanced programming in Python"* offe
 ## How to Run
 
 1. Clone the repository:
-    ```sh
-    git clone https://github.com/KevinHaka/31-Card-Game.git
-    ```
+   ```sh
+   git clone https://github.com/KevinHaka/Python-Course-Projects.git
+   ```
+
 2. Navigate to the project directory:
-    ```sh
-    cd 31-Card-Game
-    ```
+   ```sh
+   cd Python-Course-Projects/"31 Card Game"
+   ```
+
 3. Run the application:
-    ```sh
-    python thirtyone_gui.py
-    ```
+   ```sh
+   python thirtyone_gui.py
+   ```
 
 ## Usage
 
