@@ -9,17 +9,19 @@ This is the final project for the course *"Introduction to Python"* offered by M
 ## How to Run
 
 1. Clone the repository:
-    ```sh
-    git clone https://github.com/KevinHaka/My-News.git
-    ```
+   ```sh
+   git clone https://github.com/KevinHaka/Python-Course-Projects.git
+   ```
+
 2. Navigate to the project directory:
-    ```sh
-    cd MyNews
-    ```
+   ```sh
+   cd Python-Course-Projects/My-News
+   ```
+
 3. Run the application:
-    ```sh
-    python main.py
-    ```
+   ```sh
+   python main.py
+   ```
 
 ## Usage
 
